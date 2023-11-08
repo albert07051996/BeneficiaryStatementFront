@@ -1,0 +1,294 @@
+.PersonInfoExistanceWrapper {
+    max-width: 694px;
+    width: 100%;
+    min-height: 100vh;
+    padding: 46px;
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: 0px 4px 24px -1px rgba(4, 109, 248, 0.05);
+}
+
+.PersonInfoExistanceWrapperAddress {
+    max-width: 978px;
+}
+
+.formItemsCommon .ant-row {
+    display: flex;
+    flex-direction: column;
+}
+
+.formItemsCommon .ant-form-item-no-colon {
+    margin-bottom: 8px;
+    color: rgba(5, 28, 125, 0.60) !important;
+    font-size: 14px !important;
+    font-family: FiraGO;
+}
+
+.widthOfSend {
+    max-width: 269px !important;
+    width: 100% !important;
+}
+
+.stepMain .ant-steps-item-title {
+    background: #046DF8;
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding-left: 14px !important;
+    padding-top: 1px;
+    color: #fff !important;
+    font-weight: bolder;
+}
+
+
+.step3 .ant-steps-item-title {
+    padding-left: 0px !important;
+}
+
+.stepMain .ant-steps-item-icon {
+    display: none;
+}
+
+.stepNext {
+    max-width: 269px;
+    width: 100%;
+    height: 48px;
+    background: linear-gradient(94.33deg, #046DF8 15.4%, rgba(4, 109, 248, 0.75) 43.6%, rgba(4, 109, 248, 0.65) 66.07%, rgba(37, 185, 249, 0.55) 98.24%);
+    box-shadow: 0px 4px 20px rgba(4, 109, 248, 0.05);
+    border-radius: 20px;
+    border-right: unset;
+    color: #fff;
+}
+
+.addFamilyBtn {
+    border-radius: 20px;
+    background: rgba(4, 109, 248, 0.20);
+    width: 124px;
+    height: 24px;
+    border: unset;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgba(4, 109, 248, 0.50);
+    font-size: 14px;
+    font-family: FiraGO;
+    font-weight: 500;
+    line-height: 22px;
+}
+
+.addFamilyBtnSync {
+    border-radius: 20px;
+    background: rgba(4, 109, 248, 0.20);
+    width: 255px;
+    height: 24px;
+    border: unset;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgba(4, 109, 248, 0.50);
+    font-size: 14px;
+    font-family: FiraGO;
+    font-weight: 500;
+    line-height: 22px;
+}
+
+.deleteFamilyBtn {
+    background: rgba(248, 170, 255, 0.10);
+    color: rgba(215, 61, 172, 0.70);
+}
+
+.plusIcon {
+    font-size: 20px;
+    border-radius: 50%;
+}
+
+.stepBack {
+    max-width: 268px;
+    width: 100%;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid rgba(5, 28, 125, 0.25);
+    border-radius: 20px;
+    margin-right: 16px;
+    color: rgba(5, 28, 125, 0.60);
+
+}
+
+.formItemsCommon .communicationsCheck {
+    color: rgba(5, 28, 125, 0.60);
+    font-size: 14px;
+    font-family: FiraGO;
+    font-weight: 500;
+}
+
+.deleteIcon {
+    font-size: 17px;
+    border-radius: 50%;
+    background: rgba(215, 61, 172, 0.80);
+    padding: 3px;
+    color: #fff;
+}
+
+.syncIcon {
+    font-size: 17px;
+    border-radius: 50%;
+    background: rgba(4, 109, 248, 0.2);
+    padding: 3px;
+    color: rgba(4, 109, 248, 0.50);
+}
+
+.PersonInfoExistanceTitle {
+    color: rgba(5, 28, 125, 0.60);
+    font-size: 16px;
+    font-family: FiraGO;
+    font-weight: 700;
+    line-height: 22px;
+}
+
+.dividerColor {
+    background-color: rgba(4, 109, 248, 0.2) !important;
+}
+
+.PersonInfoExistanceCards {
+    color: rgba(5, 28, 125, 0.60);
+    font-size: 16px;
+    font-family: FiraGO;
+    line-height: 22px;
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: 0px 0px 24px 2px rgba(4, 109, 248, 0.07);
+    backdrop-filter: blur(20px);
+    max-width: 284px;
+    width: 100%;
+    height: 100px;
+    flex-shrink: 0;
+    padding-left: 24px;
+    padding-top: 14px;
+}
+
+.PersonInfoExistanceCards span {
+    font-size: 14px;
+}
+
+.inputMargin .ant-form-item-control-input {
+    margin-top: 10px;
+}
+
+.inputsCommon {
+    border-radius: 20px !important;
+    border: 1px solid rgba(5, 28, 125, 0.20) !important;
+    background: #FFF !important;
+    padding-left: 16px;
+}
+
+.PersonInfoExistanceCardsRadio {
+    background: #051C7D;
+    color: #fff;
+}
+
+.PersonInfoExistanceWrapper .ant-radio-wrapper span {
+    color: #fff !important;
+}
+
+.askingReason {
+    color: rgba(5, 28, 125, 0.60);
+    font-size: 14px;
+    font-family: FiraGO;
+    font-weight: 500;
+    line-height: 22px;
+}
+
+.askingReasonSelect .ant-select-selector {
+    border-radius: 20px !important;
+    border: 1px solid rgba(5, 28, 125, 0.20) !important;
+    background: #FFF !important;
+}
+
+.rowBackground {
+    border-radius: 20px;
+    background: #F4F9FF;
+    box-shadow: 0px 0px 24px 2px rgba(4, 109, 248, 0.07);
+    backdrop-filter: blur(20px);
+    padding: 16px 0px 16px 0px;
+    color: rgba(5, 28, 125, 0.60);
+    font-size: 14px;
+    font-family: FiraGO;
+    line-height: 22px;
+}
+
+.dividerVertical {
+    transform: rotate(90deg) !important;
+    position: absolute;
+    right: 49%;
+    width: 228px;
+    top: 0 !important;
+    bottom: 0 !important
+}
+
+.dividerVertical {
+    min-width: unset !important;
+}
+
+.dividerReplace {
+    border-radius: 12px;
+    background: #F4F9FF;
+    /* box-shadow: 0px 0px 24px 2px rgba(4, 109, 248, 0.07); */
+    backdrop-filter: blur(20px);
+    padding: 20px;
+    height: 130px;
+}
+
+.PersonInfoExistanceWrapperInfo .ant-form-item-control-input {
+    background: #f4f9ff;
+}
+
+.anticon-global {
+    font-size: 20px;
+    color: #051C7DCC;
+}
+
+.languageSelect .ant-select-selector {
+    border-radius: 30px !important;
+    border: 1px solid rgba(5, 28, 125, 0.60) !important;
+    color: #051C7DCC;
+}
+
+/* .trueClass #FamilyMembers_users_0_pid{
+    pointer-events: none !important;
+}
+
+.trueClass #FamilyMembers_users_0_firsT_NAME {
+    pointer-events: none !important;
+}
+
+.trueClass #FamilyMembers_users_0_lasT_NAME {
+    pointer-events: none !important;
+}
+
+.trueClass #FamilyMembers_users_0_birtH_DATE {
+    pointer-events: none !important;
+} */
+.remove0 {
+    pointer-events: none !important;
+}
+.addbtnRow {
+    height: 30px;
+    margin-top: 32px;
+}
+
+.stepNext:hover {
+    color: #fff !important;
+}
+
+.name0 {
+    display: none !important;
+
+}
+
+.class {
+    pointer-events: none !important;
+
+}

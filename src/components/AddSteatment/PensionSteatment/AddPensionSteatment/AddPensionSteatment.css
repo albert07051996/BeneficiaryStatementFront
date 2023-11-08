@@ -1,0 +1,656 @@
+.addForm .float-left {
+    float: left;
+    width: 1300px;
+}
+
+.addForm {
+    background-color: #F7F8FC;
+}
+
+.addForm .parent {
+    display: flex;
+    flex-direction: row;
+}
+
+.addForm .column {
+    flex: 1 1 0px;
+    border: 1px solid black;
+}
+
+
+.addForm .steatmentCard {
+    width: 100%;
+    border-radius: 20px;
+    padding-bottom: 30px;
+    padding-left: 56px;
+    padding-right: 56px;
+    min-height: 509px;
+    background-color: #fff;
+
+}
+
+.addForm .ant-breadcrumb {
+    margin-bottom: 56px;
+}
+
+.addForm .compensationFirst {
+    width: 100%;
+    max-width: 195px;
+}
+
+.addForm .send-button1 {
+    width: 372px;
+    height: 56px;
+    background: #046DF8;
+    box-shadow: 2px 3px 4px -1px rgba(191, 205, 224, 0.2);
+    filter: blur(0.5px);
+    border-radius: 20px;
+    color: #FFFF;
+    margin-left: 110px;
+    margin-top: 20px;
+}
+
+.addForm .send-button2 {
+    width: 269px;
+    height: 48px;
+    background: linear-gradient(94.33deg, #046DF8 15.4%, rgba(4, 109, 248, 0.75) 43.6%, rgba(4, 109, 248, 0.65) 66.07%, rgba(37, 185, 249, 0.55) 98.24%);
+    box-shadow: 0px 4px 20px rgba(4, 109, 248, 0.05);
+    border-radius: 20px;
+    color: #fff;
+}
+
+.addForm .send-button2 {
+    width: 269px;
+    height: 48px;
+    background: linear-gradient(94.33deg, #046DF8 15.4%, rgba(4, 109, 248, 0.75) 43.6%, rgba(4, 109, 248, 0.65) 66.07%, rgba(37, 185, 249, 0.55) 98.24%);
+    box-shadow: 0px 4px 20px rgba(4, 109, 248, 0.05);
+    border-radius: 20px;
+    color: #fff;
+}
+
+
+.addForm .ant-select-selection-search {
+    font-family: 'firaGO';
+}
+
+.addForm .ant-select-selection-search-input {
+    font-family: 'firaGO';
+}
+
+.addForm .ant-select-selection-item {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    margin-right: 67px;
+    color: rgba(5, 28, 125, 0.6);
+}
+
+
+.addForm .ant-select-selection-search-input {
+    font-family: 'firaGO';
+}
+
+.addForm .uploadBox {
+    width: 100%;
+    background-color: #fff;
+
+}
+
+.addForm .colForBranches {
+    max-width: 550px;
+    width: 100%;
+    margin-left: 120px;
+}
+
+.addForm .colForBranchesTop {
+    max-width: 550px;
+    width: 100%;
+    margin-left: 70px;
+}
+
+
+.addForm .uploadDragger {
+    background-color: #fff;
+}
+
+.addForm .boxUpload {
+    border-radius: 5px;
+    background-color: #3068F6;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.addForm .site-calendar-demo-card {
+    width: 300px;
+    border: 1px solid #f0f0f0;
+    border-radius: 2px;
+}
+
+.addForm .regionTitle {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: rgba(5, 28, 125, 0.6);
+    margin-bottom: 8px;
+    min-width: 200px;
+}
+
+.addForm .orderColCheck {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    color: rgba(5, 28, 125, 0.6);
+    margin-bottom: 21px;
+}
+
+.addForm .ant-select-selection-search {
+    margin-right: 25px;
+}
+
+.addForm .orderTitle {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    width: 100%;
+    border-bottom: 1px solid rgba(4, 109, 248, 0.2);
+    padding-bottom: 27px;
+    margin-bottom: 24px;
+    color: rgba(5, 28, 125, 0.6);
+}
+
+.addForm .ant-select-selection-placeholder {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: rgba(5, 28, 125, 0.6);
+}
+
+.addForm .orderCol {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    color: rgba(5, 28, 125, 0.6);
+}
+
+.addForm .regionsHead {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    color: rgba(5, 28, 125, 0.6);
+    margin-top: 32px;
+    margin-bottom: 24px;
+}
+
+.addForm .documentsPara {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #051C7D;
+    margin-bottom: 100px;
+    background-color: #FFFF;
+    position: absolute;
+    margin-top: -36px;
+    border-radius: 20px;
+    padding-left: 54px;
+    padding-right: 54px;
+    padding-bottom: 18px;
+    margin-left: 73px;
+}
+
+.addForm .p {
+    font-family: 'FiraGO';
+}
+
+
+.addForm .documentsList {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    margin-bottom: 56px;
+    align-items: center;
+    color: red;
+    margin-top: 67px;
+    padding-left: 57px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    box-shadow: 15px 4px 20px rgba(221, 224, 228, 0.1);
+    border-radius: 20px;
+}
+
+.addForm .uploadedDocs {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    margin-bottom: 56px;
+    align-items: center;
+    color: green;
+    margin-top: 67px;
+    padding-left: 57px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    box-shadow: 15px 4px 20px rgba(221, 224, 228, 0.1);
+    border-radius: 20px;
+}
+
+.addForm .textDiv {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: #051C7D;
+    max-width: 861px;
+    width: 100% !important;
+}
+
+.addForm .textDiv2 {
+    font-size: 15px;
+    color: #FF4D4F
+}
+
+.addForm .checkBoxText {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    color: #051C7D;
+}
+
+.addForm .checkBoxText2 {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    color: #051C7D;
+    margin-bottom: 40px;
+}
+
+.addForm .borderDiv {
+    border: 1px solid rgba(5, 28, 125, 0.1);
+    border-radius: 20px;
+    padding: 40px;
+}
+
+
+
+
+.addForm .ant-select-selector {
+    border: 1px solid rgba(191, 205, 224, 0.2) !important;
+    box-shadow: 15px 4px 20px rgba(221, 224, 228, 0.2) !important;
+    border-radius: 20px !important;
+    border-radius: 20px !important;
+    border: 1px solid rgba(5, 28, 125, 0.3) !important;
+    height: 48px !important;
+}
+
+.colForBranchesTop .ant-select-selector {
+    border: 1px solid rgba(191, 205, 224, 0.2) !important;
+    box-shadow: 15px 4px 20px rgba(221, 224, 228, 0.2) !important;
+    border-radius: 0 !important;
+    height: 24px !important;
+}
+
+.rulesAnotherIcon {
+    font-size: 50px;
+    background-color: rgba(4, 109, 248, 0.15);
+    border-radius: 50%;
+    padding: 15px;
+    position: absolute;
+    color: rgba(111, 171, 251, 1);
+    margin-top: 37px;
+    margin-left: 20px;
+}
+
+.addForm .rulesTitle {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(5, 28, 125, 0.6);
+    padding-left: 70px;
+    margin-bottom: 42px;
+}
+
+.addForm .rulesBtn {
+    position: absolute;
+    width: 269px;
+    height: 48px;
+    background: linear-gradient(94.33deg, #046DF8 15.4%, rgba(4, 109, 248, 0.75) 43.6%, rgba(4, 109, 248, 0.65) 66.07%, rgba(37, 185, 249, 0.55) 98.24%);
+    box-shadow: 0px 4px 20px rgba(4, 109, 248, 0.05);
+    border-radius: 20px;
+    color: #fff;
+}
+
+.ant-steps-icon-dot {
+    background-color: rgba(4, 109, 248, 0.15) !important;
+}
+
+.colForBranchesTop {
+    margin-bottom: 50px;
+}
+
+
+@media only screen and (max-width: 1199px) {
+
+
+    .contentDisplay {
+        display: none;
+    }
+
+}
+
+@media only screen and (min-width: 1386px) {
+
+
+    .addForm .colForBranchesTop {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 1386px) {
+
+
+    .addForm .colForBranches {
+        display: none;
+    }
+
+}
+
+
+@media only screen and (min-width: 1199px) {
+
+
+
+    .addForm .uploadCard {
+        border-radius: 8px;
+        justify-content: center;
+    }
+}
+
+
+
+@media only screen and (max-width: 500px) {
+    .content-wrapper {
+        padding: 0px;
+
+    }
+
+    .contentDisplay {
+        display: none;
+    }
+
+
+}
+
+
+.addForm .rulesBtnBack {
+    width: 268px;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid rgba(5, 28, 125, 0.25);
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.addForm .rulesTextPension {
+    font-family: 'FiraGO';
+    font-style: normal;
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 24px;
+    padding-left: 56px;
+    padding-right: 56px;
+    border-radius: 20px;
+    padding-top: 70px;
+}
+
+.addForm .rulesTitle2 {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(5, 28, 125, 0.6);
+}
+
+.addForm .rulesStyles {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(5, 28, 125, 0.6);
+    margin-bottom: 24px;
+}
+
+.forUploadPension {
+    background: #FFFFFF;
+    box-shadow: 0px -1px 24px 2px rgba(4, 109, 248, 0.1);
+    backdrop-filter: blur(20px);
+    max-width: 50%;
+    width: 100%;
+    border-radius: 20px;
+    margin-right: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.documentsListTitle {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: rgba(5, 28, 125, 0.6);
+    padding: 10px;
+}
+
+.steatmentCard .ant-select-arrow {
+    margin-top: -24px !important;
+    font-size: 12px;
+    height: 48px !important;
+    border-radius: 0px 20px 20px 0px;
+    border: 1px;
+    font-size: 16px !important;
+}
+
+.addForm .registerBlock {
+    background-color: #F7F8FC;
+    border-radius: 20px;
+}
+
+.addForm .otherTerminationReason {
+    max-height: 118px;
+    height: 70%;
+    padding-bottom: 144px;
+    padding-top: 18px;
+    border: none;
+    border-radius: 8px;
+}
+
+.commentDiv {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    color: #051C7D;
+}
+
+
+
+.addForm .forUploadIcon {
+    color: rgba(4, 109, 248, 0.5);
+    margin-right: 8px;
+    font-size: 16px;
+}
+
+.addForm .uploadBtnDiv {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.addForm .uploadBtnDiv {
+    color: rgba(4, 109, 248, 0.7);
+}
+
+.addForm .uploadCard {
+    border-radius: 8px;
+    justify-content: center;
+}
+
+.addForm .hiddenClass {
+    display: none;
+}
+
+.addForm .padding-div {
+    padding: 24px !important;
+}
+
+.addForm .ant-upload-list-item-container {
+    width: 265px;
+    height: 40px;
+    background: rgba(11, 34, 128, 0.1);
+    border-radius: 20px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.addForm .ant-upload-list-item-container:hover {
+    background: rgba(11, 34, 128, 0.1);
+}
+
+.addForm .ant-upload-list-item-name {
+    display: flex;
+    flex-direction: column !important;
+    row-gap: 18px;
+}
+
+.addForm .ant-upload-list-item-error,
+.addForm .ant-upload-list-item,
+.addForm .ant-upload-list-item-error .ant-upload-text-icon>.anticon,
+.addForm .ant-upload-list-item-error .ant-upload-list-item-name {
+    color: #ffffff !important;
+}
+
+.addForm .ant-upload-list-item-error .ant-upload-list-item-card-actions .anticon {
+    color: #ffffff !important;
+}
+
+.addForm .anticon-delete {
+    color: #102683 !important;
+    font-size: 16px !important;
+}
+
+.addForm .anticon-paper-clip {
+    color: #102683 !important;
+    font-size: 16px !important;
+}
+
+.addForm .ant-menu-inline {
+    background-color: #EAECFA;
+}
+
+.addForm .ant-menu-item-selected {
+    background-color: #FFFF !important;
+}
+
+.addForm .ant-upload-list-item-container {
+    padding-top: 3px;
+}
+
+.addForm .ant-menu-submenu-title {
+    background-color: #3068F6;
+}
+
+.ant-layout {
+    background-color: #e6edfd
+}
+
+.myBreadcrumb {
+    margin-left: 0px;
+}
+
+.myBreadcrumb .ant-breadcrumb {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #051C7D;
+    margin-bottom: 32px;
+
+}
+
+.myBreadcrumb .ant-breadcrumb .ant-breadcrumb-separator {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #051C7D;
+}
+
+.myBreadcrumb .ant-breadcrumb-link {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #051C7D;
+}
+
+
+
+.pensionSelect {
+    border-radius: 20;
+    max-width: 360px;
+    width: 100%;
+}

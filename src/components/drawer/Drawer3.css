@@ -1,0 +1,29 @@
+#components-layout-demo-side .logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+
+.ant-layout-sider {
+  /* min-height: 100vh; */
+  /* position: fixed; */
+  top: 0;
+  /* bottom: 0; */
+  background-color: #fff;
+  /* z-index: 30; */
+}
+
+.ant-layout-sider-children {
+  height: 100%;
+}
+
+/* 
+.ant-menu-item {
+  display: inline-block !important;
+  padding-top: 10px !important;
+} */

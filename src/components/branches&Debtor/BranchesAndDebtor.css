@@ -1,0 +1,286 @@
+.wrapper-certificate {
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.main-wrapper {
+  margin-top: 50px;
+  height: 120px;
+  box-shadow: inset 0 0 6px rgba(198, 191, 191, 0.3);
+}
+
+.content {
+  margin-top: 1%;
+}
+
+.cardForCard {
+  background: #FFFFFF;
+  box-shadow: 0px -1px 24px rgba(4, 109, 248, 0.1);
+  backdrop-filter: blur(20px);
+  border-radius: 20px;
+}
+
+.docRulesAlert {
+  font-family: 'FiraGO';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #046DF8;
+  position: absolute;
+  margin-top: -56px;
+  background-color: #FFF;
+  padding-bottom: 5px;
+  padding-left: 37px;
+  padding-right: 37px;
+  border-radius: 20px;
+}
+
+.docRulesAlertIcon {
+  text-align: center;
+}
+
+.iconForbran {
+  margin-bottom: 16px;
+  color: #FF87DE;
+  font-size: 32px;
+  padding: 16px;
+  border-radius: 50%;
+  background-color: rgba(248, 170, 255, 0.05);
+  ;
+  justify-content: center
+}
+
+.branchesListWrapper .ant-space-item {
+  padding-left: 15px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 15px 4px 20px rgba(193, 195, 197, 0.2);
+  border-radius: 8px;
+  width: 100% !important;
+
+}
+
+.branchesListWrapper .ant-space-item:not(:first-child) {
+  margin-top: 24px;
+}
+
+.branchesListWrapper .ant-radio-group {
+  width: 100%;
+
+}
+
+.branchesListWrapper .ant-space-vertical {
+  width: 100%;
+
+}
+
+.branchesListWrapper .ant-card-body {
+  padding: 0px;
+  position: relative;
+}
+
+.branchesListWrapper .ant-card {
+  background-color: unset;
+  box-shadow: none;
+}
+
+.cardMarginBottom {
+  margin-bottom: 16px;
+  padding-left: 9px !important;
+}
+
+.debtorCardWrapper .ant-card {
+  background: #FFFFFF;
+  box-shadow: 0px -1px 24px 2px rgba(4, 109, 248, 0.1);
+  backdrop-filter: blur(20px);
+  /* Note: backdrop-filter has minimal browser support */
+
+  border-radius: 20px;
+}
+
+.cardForCalendar {
+  background-color: #FFFFFF;
+  box-shadow: 0px 4px 24px -1px rgba(4, 109, 248, 0.05);
+  border: none;
+  border-radius: 20px;
+  padding: 15px;
+  margin-left: 28px;
+  min-height: 509px;
+  min-width: 358px;
+
+  /* margin-top: 13px; */
+}
+
+.calendarTop {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #DAECFF;
+  background: rgba(4, 109, 248, 0.1);
+  border-radius: 20px;
+  height: 36px;
+}
+
+.calendarTopText {
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 24px;
+  color: rgba(4, 109, 248, 0.5);
+}
+
+.debtorCardWrapper2 .ant-card {
+  max-width: 601px;
+  width: 100%;
+  min-width: 350px;
+  /* width: 100%; */
+  background: linear-gradient(180deg, #051C7D 0%, rgba(5, 28, 125, 0.95) 25%, rgba(5, 28, 125, 0.85) 50%, rgba(5, 28, 125, 0.75) 75%, rgba(5, 28, 125, 0.65) 99.48%);
+  border-radius: 20px;
+  /* margin-left: 48px; */
+  padding: 20px;
+}
+
+
+
+
+.cardForCalendar .ant-picker-calendar-header .ant-select-selector {
+  /* border-radius: 0px !important; */
+  /* border-color:  red !important; */
+  /* width: 100%; */
+  height: 24px !important;
+  padding: 0 7px;
+  max-width: 82px !important;
+  width: 100%;
+  border-radius: 20px !important;
+}
+
+/* .cardForCalendar .ant-select-single.ant-select-sm:not(.ant-select-customize-input) .ant-select-selector {
+    padding: 0 7px;
+    max-width: 82px !important;
+} */
+
+.cardForCalendar .ant-select-single.ant-select-sm:not(.ant-select-customize-input).ant-select-show-arrow .ant-select-selection-item {
+  padding-inline-end: 50px !important;
+}
+
+
+.cardForCalendar .ant-select-arrow {
+  color: #046DF8 !important;
+
+  padding: 10px;
+  /* margin-top: -34px !important; */
+  font-size: 12px;
+}
+
+.ant-picker-calendar-mini .ant-picker-calendar-header {
+  min-width: 292px !important;
+  padding-inline-end: 50px !important;
+}
+
+.ant-picker-calendar-mini .ant-picker-calendar-header {
+  padding-inline-end: 30px;
+}
+
+
+.cardForCalendar .ant-picker-calendar .ant-picker-calendar-header .ant-picker-calendar-year-select {
+  max-width: 65px !important;
+  min-width: 60px !important;
+}
+
+.cardForCalendar .ant-picker-calendar .ant-picker-calendar-header .ant-picker-calendar-month-select {
+  min-width: 60px;
+  max-width: 62px !important;
+
+  margin-inline-start: 3px;
+}
+
+.debtorInfoText {
+  font-family: 'FiraGO';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  /* or 157% */
+
+  text-align: center;
+
+  color: rgba(5, 28, 125, 0.6);
+}
+
+.debtorInfoText2 {
+  font-family: 'FiraGO';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+  /* margin-top: 40px; */
+}
+
+.notDebtorIcon {
+  position: absolute;
+  top: -9px;
+  background-color: #FFFF;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.checkAddressWrapper {
+  position: absolute;
+  left: 12px;
+  top: -33px;
+}
+
+.branchesWrapper {
+  position: relative;
+}
+
+.mainCalendar .ant-select-single.ant-select-sm:not(.ant-select-customize-input) .ant-select-selector {
+  /* padding: 0 27px; */
+}
+
+
+.mainCalendar .ant-picker-calendar .ant-picker-calendar-header .ant-picker-calendar-mode-switch {
+  /* margin-inline-start: 8px;
+  padding-top: 10px; */
+}
+
+.cardForCalendar .ant-card .ant-card-body {
+  min-width: 276px;
+}
+
+
+@media only screen and (max-width: 1200px) {
+
+
+  .cardForCalendar {
+    display: none;
+  }
+
+}
+
+.cardForCard .ant-select-selection-item {
+  right: 10px !important;
+}
+
+.ant-picker-calendar-header .ant-select-selector {
+  padding-left: 18px !important;
+}
+.minerCol .ant-picker-calendar-header .ant-select-selector {
+  padding-left: 8px !important;
+}
+
+.ant-picker-calendar-header .ant-radio-button-wrapper:first-child {
+  border-top-left-radius: 12px;
+  border-bottom-left-radius: 12px;
+}
+.ant-picker-calendar-header .ant-radio-button-wrapper:nth-child(2) {
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+}

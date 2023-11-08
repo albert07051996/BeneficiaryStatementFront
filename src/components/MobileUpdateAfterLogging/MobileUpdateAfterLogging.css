@@ -1,0 +1,95 @@
+.registration-form {
+  max-width: 300px;
+}
+
+.registration-form-forgot {
+  float: right;
+}
+
+.ant-col-rtl .registration-form-forgot {
+  float: left;
+}
+
+
+
+.main {
+  border: 1px solid #FFFF;
+  /* padding: 15px; */
+  border-radius: 20px;
+
+}
+
+.mobileAfterLogCard {
+  margin-top: 109px;
+  border: none;
+  border-radius: 20px !important;
+  height: 200px !important;
+}
+.mobileAfterLogCard .ant-form-item-control-input-content{
+  background-color: #FAFBFD;
+}
+.mobileAfterLogCard .ant-form-item-control-input {
+  background-color: #FAFBFD;
+}
+.radiusInput {
+  border-radius: 8px;
+  background-color: #E6EDFD;
+  border: none;
+  padding: 6px;
+}
+
+.codeInputMobile {
+  box-sizing: border-box;
+  position: absolute;
+  width: 270px;
+  height: 48px; 
+  border: 1px solid rgba(5, 28, 125, 0.1);
+  border-radius: 20px !important;
+}
+
+.codeInputMobile {
+  text-align: center;
+}
+/* .title {
+  
+} */
+
+.datepicker {
+  padding: 17px;
+  border-radius: 5px;
+}
+
+.backToLoginMobile {
+  text-align: center;
+}
+
+.ant-input {
+  background-color: #E6EDFD;
+}
+
+.mobileTitle {
+  width: 283px;
+  height: 29px;
+  font-family: 'FiraGO';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.profileMobileUpdateBtn {
+  max-width: 354px;
+  width: 100%;
+  height: 56px;
+  background-color: #046DF8;
+  box-shadow: 2px 3px 4px -1px rgba(191, 205, 224, 0.2);
+  filter: blur(0.5px);
+  border-radius: 20px;
+}
+
+/* .registration-form-button {
+  background-color: #346DF2;
+  
+} */
+

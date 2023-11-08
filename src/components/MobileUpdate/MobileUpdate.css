@@ -1,0 +1,46 @@
+.registration-form {
+  max-width: 300px;
+}
+
+.registration-form-forgot {
+  float: right;
+}
+
+.ant-col-rtl .registration-form-forgot {
+  float: left;
+}
+
+.registration-form-button {
+  width: 100%;
+  border-radius: 8px;
+
+}
+
+.main {
+  border: 1px solid #B4B4B4;
+  /* padding: 15px; */
+  border-radius: 20px;
+  
+  
+}
+
+
+.codeInput {
+  width: calc(100% - 200px); 
+  float:right;
+
+}
+
+.title{
+  text-align: center;
+}
+
+.datepicker{
+  padding: 17px;
+  border-radius: 5px;
+}
+
+.backToLoginMobile {
+    text-align: center;
+}
+

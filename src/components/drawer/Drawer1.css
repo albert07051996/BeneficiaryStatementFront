@@ -1,0 +1,114 @@
+.ant-layout-sider {
+  min-height: 100vh;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  background-color: #fff;
+  z-index: 30;
+}
+
+.ant-layout-sider-children {
+  height: 100%;
+}
+
+/* .ant-menu {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  padding: 0px 12px;
+} */
+
+.mainlogo {
+  text-align: center;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 20px;
+  height: 22px;
+  margin-top: 15px;
+}
+
+.ant-menu-item,
+.ant-menu-title-content {
+  height: 96px !important;
+  padding: 0px !important;
+  position: relative;
+  margin: none;
+  max-width: 272px !important;
+  width: 100% !important;
+  height: 70px !important;
+}
+
+.ant-menu-title-content {
+  margin-top: 20%;
+  font-size: 13px;
+}
+
+.ant-menu-title-content::after {
+  display: none !important;
+}
+
+.ant-menu-item-selected {
+  background-color: linear-gradient(0deg,
+      rgba(255, 255, 255, 0.8),
+      rgba(255, 255, 255, 0.8)),
+    #54b5b5;
+  border-radius: 20px;
+  max-width: 272px !important;
+  width: 100% !important;
+}
+
+.ant-menu-item-selected>.ant-menu-title-content {
+  color: #54b5b5 !important;
+}
+
+.ant-menu-item-only-child {
+  background-color: #fff !important;
+
+}
+
+.ant-menu-item-only-child::after,
+.ant-menu-item:after {
+  opacity: 0 !important;
+}
+
+.ant-menu-item {
+  display: inline-block !important;
+  padding-top: 10px !important;
+}
+
+.ant-menu-item-icon {
+  margin-left: 18px !important;
+}
+
+.ant-menu-title-content:not(:first-child) {
+  margin-left: 9% !important;
+  color: #3a394f;
+  font-weight: 500;
+}
+
+.ant-menu-item:nth-child(2) {
+  margin-top: 30px;
+}
+
+.ant-layout-sider-trigger {
+  background-color: #54b5b5 !important;
+}
+
+.ant-menu-item:nth-child(8) {
+  margin-top: 30%;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.ant-layout-sider-collapsed>.ant-menu-title-content {
+  display: none !important;
+}
+
+.ant-menu-inline .ant-menu-item:not(:last-child) {
+  margin-bottom: -6px !important;
+}

@@ -1,0 +1,67 @@
+.LoginpageFooterNew {
+  background-color: #FFFF;
+  padding: 56px;
+  bottom: 0 !important;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+    display: block;
+      flex-grow: 0;
+        flex-shrink: 0;
+            min-height: 8vh;
+}
+
+.svgImg {
+  width: 100%;
+  min-width: 80px;
+}
+
+.mailInputLogin {
+  background-color: #FFFFFF !important;
+  border-radius: 8px;
+  max-width: 230px;
+  min-width: 190px;
+  padding: 1px;
+}
+
+.ufleba {
+  font-family: 'FiraGO';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+
+color: rgba(0, 0, 0, 0.5);
+}
+
+.mailBtn {
+  margin-right: 3px;
+  display: flex;
+  align-items: center;
+  height: 80%;
+  background-color: #046DF8;
+  color: #FFFF;
+  font-family: 'FiraGO';
+  font-style: normal;
+  font-size: 12px;
+}
+
+::placeholder {
+  font-weight: 500;
+
+}
+
+@media only screen and (max-width: 527px) {
+  .mailBtn {
+    width: 92px;
+  }
+
+}
+
+@media only screen and (min-width: 576px) {
+  .brForFooter {
+    display: none;
+  }
+
+}

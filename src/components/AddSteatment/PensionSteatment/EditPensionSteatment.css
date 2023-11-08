@@ -1,0 +1,438 @@
+.editForm .float-left {
+    float: left;
+    width: 1300px;
+}
+
+
+
+.editForm .parent {
+    display: flex;
+    flex-direction: row;
+}
+
+.editForm .column {
+    flex: 1 1 0px;
+    border: 1px solid black;
+}
+
+.editForm .steatmentCard {
+    width: 100%;
+    border-radius: 20px;
+    padding-bottom: 30px;
+    padding-left: 56px;
+    padding-right: 56px; 
+    background-color: #f6f8fa ;   
+}
+
+.editForm .send-button {
+    width: 372px;
+    height: 56px;
+    color: #FFF;
+    background: #046DF8;
+    box-shadow: 2px 3px 4px -1px rgba(191, 205, 224, 0.2);
+    filter: blur(0.5px);
+    border-radius: 20px;
+    margin-top: 20px;
+    border-radius: 20px !important;
+}
+.editForm .docName {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.75);
+}
+
+.editForm .documentsPara {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(0, 0, 0, 0.6);
+    margin-bottom: 100px;
+    background-color: #FFFF;
+    position: absolute;
+    margin-top: -36px;
+    border-radius: 20px;
+    padding-left: 54px;
+    padding-right: 54px;
+    padding-bottom: 18px;
+    margin-left: 73px;
+}
+
+
+.editForm .ant-select-selection-search {
+    font-family: 'firaGO';
+}
+
+.editForm .ant-select-selection-search-input {
+    font-family: 'firaGO';
+}
+
+.editForm .ant-select-selection-item {
+    font-family: 'firaGO';
+}
+
+.editForm .ant-select-selection-search-input {
+    font-family: 'firaGO';
+}
+
+.editForm .ant-select-selection-item {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    padding-right: 50px !important;
+}
+
+.editForm .ant-select-selection-placeholder {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    padding-inline-end: 50px !important
+}
+
+.editForm .uploadBox {
+    width: 100%;
+    background-color: #fff;
+
+}
+
+
+.editForm .uploadDragger {
+    background-color: #fff;
+}
+
+.editForm .boxUpload {
+
+    border-radius: 5px;
+    background-color: #3068F6;
+    color: #fff;
+    border-radius: 5px;
+
+
+}
+
+.editForm .site-calendar-demo-card {
+    width: 300px;
+    border: 1px solid #f0f0f0;
+    border-radius: 2px;
+}
+
+.editForm .orderTitle {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.editForm .orderCol {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #343434;
+    margin-bottom: 61px;
+    
+}
+
+.editForm .documentsPara {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #235D99;
+}
+
+.editForm .p {
+    font-family: 'FiraGO';
+}
+
+.editForm .textDiv {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.7);
+    max-width: 861px;
+    width: 100% !important;
+}
+
+.editForm .textDiv2 {
+    font-size: 15px;
+    color: #FF4D4F
+}
+
+.editForm .checkBoxText {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.editForm .borderDiv {
+    border: 1px solid rgba(5, 28, 125, 0.1);
+    border-radius: 20px;
+    padding: 40px;
+}
+.editForm .imgsDiv {
+    border: 1px solid #FFFF;
+    background-color: #FFFF;
+    padding: 8px;
+    border-radius: 8px;
+}
+.editForm .cardForUpload {
+    border: 1px solid #FFFF;
+    background-color: #FFFF;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.editForm .colImg {
+    padding-bottom: 5px;
+    width: 100%;
+    height: auto;
+}
+
+.editForm .ant-select-selector {
+    border-radius: 8px !important;
+}
+
+.editForm .ant-select-selector {
+    border: 1px solid rgba(191, 205, 224, 0.2) !important;
+    box-shadow: 15px 4px 20px rgba(221, 224, 228, 0.2) !important;
+    border-radius: 20px !important;
+    height: 48px !important;
+}
+
+.editForm .regionTitle {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.7);
+    margin-bottom: 16px;
+}
+
+.editForm .titleImg {
+    font-size: 16px;
+    color: #235D99;
+    font-weight: 600;
+}
+
+
+.editForm .rulesTitle {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #235D99;
+}
+
+.editForm .rulesBtn {
+    background-color: #235D99;
+    color: #FFFF;
+    border-radius: 8px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.content-wrapper {
+    background-color: #FFFF;
+}
+
+@media only screen and (max-width: 1199px) {
+
+
+    .contentDisplay {
+        display: none;
+    }
+
+    .uploadCard {
+        width: 100%;
+        border-radius: 8px;
+        justify-content: center;
+    }
+}
+
+
+
+@media only screen and (max-width: 500px) {
+    .content-wrapper {
+        padding: 0px;
+
+    }
+
+    .contentDisplay {
+        display: none;
+    }
+}
+
+
+
+.editForm .rulesBtnBack {
+    border: none;
+    font-weight: 400;
+    text-decoration: underline;
+    color: #235D99;
+}
+
+.editForm .rulesTextPension {
+    font-size: 18px;
+    font-family: 'firaGO';
+
+}
+
+.editForm .registerBlock {
+    background-color: #FFFF;
+    padding: 50px;
+    border-radius: 8px;
+    margin-top: 30px;
+}
+
+.editForm .otherTerminationReason {
+    max-height: 118px;
+    height: 70%;
+    border-radius: 8px;
+}
+
+
+
+.editForm .uploadBtnDiv {
+    width: 268px;
+    height: 200px;
+    left: 304px;
+    top: 668px;
+    background: linear-gradient(180deg, #051C7D 0%, rgba(5, 28, 125, 0.95) 25%, rgba(5, 28, 125, 0.85) 50%, rgba(5, 28, 125, 0.75) 75%, rgba(5, 28, 125, 0.65) 99.48%);
+    border-radius: 20px;
+    color: #FFFF;
+    align-items: center;
+    text-align: center;
+}
+
+.editForm .uploadBtn {
+    background-color: #235D99;
+    color: #FFFF;
+    border-radius: 5px;
+    padding: 5px;
+    width: 61px !important;
+    height: 37px;
+}
+.editForm .uploadBtn {
+    background-color: #235D99;
+    color: #FFFF;
+    border-radius: 5px;
+    padding: 5px;
+    width: 61px !important;
+    height: 37px;
+}
+
+.editForm .uploadImg {
+    margin-top: 50px;
+}
+.editForm .textParag {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+}
+
+.editForm .uploadCard {
+    border-radius: 8px;
+    justify-content: center;
+}
+
+.editForm .hiddenClass {
+    display: none;
+}
+
+.editForm .padding-div {
+    padding: 24px !important;
+}
+
+.editForm .ant-upload-list-item-container {
+    background-color: #235D99;
+    
+    padding: 10px;
+    border-radius: 8px;
+    display: table;
+    margin-top: 5px;
+}
+
+.editForm .ant-upload-list-item-container:hover {
+    background-color: #235D99 !important;
+}
+
+.editForm .ant-upload-list-item-name {
+    display: flex;
+    flex-direction: column !important;
+    row-gap: 18px;
+}
+
+.editForm .ant-upload-list-item-error,
+.editForm .ant-upload-list-item,
+.editForm .ant-upload-list-item-error .ant-upload-text-icon>.anticon,
+.editForm .ant-upload-list-item-error .ant-upload-list-item-name {
+    color: #ffffff !important;
+}
+
+.editForm .ant-upload-list-item-error .ant-upload-list-item-card-actions .anticon {
+    color: #ffffff !important;
+}
+
+.editForm .anticon-delete {
+    color: #FFFF !important;
+}
+
+.editForm .anticon-paper-clip {
+    color: #FFFF !important;
+}
+
+.editForm .ant-menu-inline {
+    background-color: #EAECFA;
+}
+
+.editForm .ant-menu-item-selected {
+    background-color: #FFFF !important;
+}
+
+.editForm .ant-upload-list-item-container {
+    padding-top: 3px;
+}
+
+.editForm .ant-menu-submenu-title {
+    background-color: #3068F6;
+}
+
+.ant-layout {
+    background-color: #FFFF;
+}

@@ -1,0 +1,700 @@
+.addMinerForm .float-left {
+    float: left;
+    width: 1300px;
+}
+
+
+.addMinerForm {
+    background-color: #F7F8FC;
+
+}
+
+.addMinerForm .parent {
+    display: flex;
+    flex-direction: row;
+}
+
+.addMinerForm .column {
+    flex: 1 1 0px;
+    border: 1px solid black;
+}
+
+
+.addMinerForm .steatmentCard {
+    width: 100%;
+    border-radius: 20px;
+    padding-bottom: 30px;
+    padding-left: 56px;
+    padding-right: 56px;
+    background-color: #fff;
+}
+
+.addMinerForm .ant-breadcrumb {
+    margin-bottom: 56px;
+}
+
+.addMinerForm .send-button1 {
+    width: 372px;
+    height: 56px;
+    background: #046DF8;
+    box-shadow: 2px 3px 4px -1px rgba(191, 205, 224, 0.2);
+    filter: blur(0.5px);
+    border-radius: 20px;
+    color: #FFFF;
+    margin-left: 110px;
+    margin-top: 20px;
+}
+
+.addMinerForm .send-button2 {
+    width: 269px;
+    height: 48px;
+    background: linear-gradient(94.33deg, #046DF8 15.4%, rgba(4, 109, 248, 0.75) 43.6%, rgba(4, 109, 248, 0.65) 66.07%, rgba(37, 185, 249, 0.55) 98.24%);
+    box-shadow: 0px 4px 20px rgba(4, 109, 248, 0.05);
+    border-radius: 20px;
+    color: #fff;
+}
+
+.addMinerForm .ant-card-body {
+    background-color: #fff;
+    border-radius: 20px;
+
+}
+
+.addMinerForm .ant-card-bordered {
+    border: unset
+}
+
+.addMinerForm .ant-select-selection-search {
+    font-family: 'firaGO';
+}
+
+.addMinerForm .ant-select-selection-search-input {
+    font-family: 'firaGO';
+}
+
+.addMinerForm .ant-select-selection-item {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: rgba(5, 28, 125, 0.6);
+    margin-left: 15px;
+}
+
+
+.addMinerForm .ant-select-selection-search-input {
+    font-family: 'firaGO';
+}
+
+.addMinerForm .uploadBox {
+    width: 100%;
+    background-color: #fff;
+
+}
+
+.addMinerForm .colForBranches {
+    max-width: 550px;
+    width: 100%;
+    margin-left: 120px;
+}
+
+.addMinerForm .colForBranchesTop {
+    max-width: 550px;
+    width: 100%;
+    margin-left: 70px;
+}
+
+
+.addMinerForm .uploadDragger {
+    background-color: #fff;
+}
+
+.addMinerForm .boxUpload {
+
+    border-radius: 5px;
+    background-color: #3068F6;
+    color: #fff;
+    border-radius: 5px;
+
+
+}
+
+.addMinerForm .site-calendar-demo-card {
+    width: 300px;
+    border: 1px solid #f0f0f0;
+    border-radius: 2px;
+}
+
+.addMinerForm .regionTitle {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: rgba(5, 28, 125, 0.6);
+    margin-bottom: 8px;
+    margin-top: 15px;
+    min-width: 177px;
+}
+
+.addMinerForm .forRegionTitle {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: rgba(5, 28, 125, 0.6);
+}
+
+.addMinerForm .regionSecundTitle {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: rgba(5, 28, 125, 0.6);
+    margin-bottom: 8px;
+    min-width: 127px;
+}
+
+.addMinerForm .ant-select-arrow {
+    margin-top: -24px !important;
+    font-size: 12px;
+    margin-right: -11px !important;
+    height: 48px !important;
+    border-radius: 0px 20px 20px 0px;
+    border: 1px;
+    font-size: 16px !important;
+}
+
+.addMinerForm .personDiv {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: rgba(5, 28, 125, 0.6);
+}
+
+.addMinerForm .orderTitle {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: rgba(5, 28, 125, 0.6);
+    border-bottom: 1px solid rgba(4, 109, 248, 0.2);
+    padding-bottom: 27px;
+    margin-bottom: 24px;
+}
+
+.addMinerForm .ant-select-selection-placeholder {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #051C7D;
+    padding-inline-end: 50px !important
+}
+
+.addMinerForm .orderCol {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: rgba(5, 28, 125, 0.6);
+    font-weight: 500;
+    margin-bottom: 61px;
+
+}
+
+.addMinerForm .orderColPerson {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    color: rgba(5, 28, 125, 0.6);
+}
+
+.addMinerForm .documentsPara {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #051C7D;
+    margin-bottom: 100px;
+    background-color: #FFFF;
+    position: absolute;
+    margin-top: -36px;
+    border-radius: 20px;
+    padding-left: 54px;
+    padding-right: 54px;
+    padding-bottom: 18px;
+    margin-left: 73px;
+}
+
+.addMinerForm .p {
+    font-family: 'FiraGO';
+}
+
+
+.addMinerForm .documentsList {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: rgba(5, 28, 125, 0.6);
+}
+
+.addMinerForm .uploadedDocs {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    margin-bottom: 56px;
+    align-items: center;
+    color: green;
+    margin-top: 67px;
+    padding-left: 57px;  
+    padding-bottom: 12px;
+    padding-top: 12px;
+    box-shadow: 15px 4px 20px rgba(221, 224, 228, 0.1);
+    border-radius: 20px;
+}
+
+.addMinerForm .textDiv {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: #051C7D;
+    max-width: 861px;
+    width: 100% !important;
+}
+
+.addMinerForm .textDiv2 {
+    font-size: 15px;
+    color: #FF4D4F
+}
+
+.addMinerForm .checkBoxText {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    color: #051C7D;
+}
+
+.addMinerForm .checkBoxText2 {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    color: #051C7D;
+    margin-bottom: 40px;
+}
+
+.addMinerForm .borderDiv {
+    border: 1px solid rgba(5, 28, 125, 0.1);
+    border-radius: 20px;
+    padding: 40px;
+}
+
+.addMinerForm .ant-select-selector {
+    border: 1px solid rgba(191, 205, 224, 0.2) !important;
+    box-shadow: 15px 4px 20px rgba(221, 224, 228, 0.2) !important;
+    border-radius: 20px !important;
+    border: 1px solid rgba(5, 28, 125, 0.3) !important;
+    height: 48px !important;
+}
+
+
+
+
+.addMinerForm .rulesTitle {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(5, 28, 125, 0.6);
+    padding-left: 70px;
+    margin-bottom: 42px;
+}
+
+.addMinerForm .rulesBtn {
+    position: absolute;
+    width: 269px;
+    height: 56px;
+    background: linear-gradient(94.33deg, #046DF8 15.4%, rgba(4, 109, 248, 0.75) 43.6%, rgba(4, 109, 248, 0.65) 66.07%, rgba(37, 185, 249, 0.55) 98.24%);
+    box-shadow: 0px 4px 20px rgba(4, 109, 248, 0.05);
+    border-radius: 20px;
+    color: #fff;
+}
+
+
+
+.colForBranchesTop {
+    margin-bottom: 50px;
+}
+
+
+@media only screen and (max-width: 1199px) {
+
+
+    .contentDisplay {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 1599px) {
+
+
+    .colForBranchesTop {
+        display: none;
+    }
+
+}
+
+
+
+
+@media only screen and (min-width: 1199px) {
+
+
+
+    .addMinerForm .uploadCard {      
+        border-radius: 8px;
+        justify-content: center;
+    }
+}
+
+
+
+@media only screen and (max-width: 500px) {
+    .content-wrapper {
+        padding: 0px;
+
+    }
+
+    .contentDisplay {
+        display: none;
+    }
+}
+
+.addMinerForm .rulesBtnBack {
+    background-color: #FFFFFF;
+    border: 1px solid rgba(5, 28, 125, 0.1);
+    border-radius: 20px;
+    width: 164px;
+    height: 56px;
+    margin-bottom: 40px;
+    color: #051C7D;
+}
+
+.addMinerForm .rulesTextPension {
+    font-family: 'FiraGO';
+    font-style: normal;
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 24px;
+    padding-left: 56px;
+    padding-right: 56px;
+    border-radius: 20px;
+    padding-top: 70px;
+}
+
+.addMinerForm .rulesTitle2 {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(5, 28, 125, 0.6);
+}
+
+.addMinerForm .rulesStyles {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(5, 28, 125, 0.6);
+    margin-bottom: 24px;
+}
+
+.addMinerForm .registerBlock {
+    background-color: #FFFF;
+    border-radius: 20px;  
+}
+
+.addMinerForm .otherTerminationReason {
+    max-width: 871px;
+    height: 171px;
+    background-color: #FFFFFF;
+    border: 1px solid rgba(191, 205, 224, 0.2);
+    box-shadow: 15px 4px 20px rgba(221, 224, 228, 0.2);
+    border-radius: 20px;
+}
+
+.commentDiv {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    color: #051C7D;
+}
+
+ .uploadBtnDiv {
+    max-width: 187px;
+    width: 100%;
+    max-height: 32px;
+    background: rgba(4, 109, 248, 0.1);
+    border: 1px solid rgba(4, 109, 248, 0.2);
+    box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.016);
+    border-radius: 10px;
+}
+
+ .uploadText {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    color: rgba(4, 109, 248, 0.7);
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    padding: 5px 16px 5px;
+    cursor: pointer;
+}
+
+
+ .uploadImg {
+    margin-top: 50px;
+}
+
+ .textParag {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+}
+
+
+.forUpload {
+    background: #FFFFFF;
+    box-shadow: 0px -1px 24px 2px rgba(4, 109, 248, 0.1);
+    backdrop-filter: blur(20px);
+    max-width: 280px;
+    width: 100%;
+    border-radius: 20px;
+    margin-right: 16px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.colColor {
+    background: #fff !important;
+}
+
+.addMinerForm .hiddenClass {
+    display: none;
+}
+
+.addMinerForm .padding-div {
+    padding: 24px !important;
+}
+
+.addMinerForm .ant-upload-list-item-container {
+    background-color: #235D99;
+    padding: 10px;
+    border-radius: 8px;
+    display: table;
+    margin-top: 5px;
+}
+
+.addMinerForm .ant-upload-list-item-container:hover {
+    background: rgba(11, 34, 128, 0.1);
+}
+
+.addMinerForm .ant-upload-list-item-name {
+    display: flex;
+    flex-direction: column !important;
+    row-gap: 18px;
+    width: 150px;
+}
+
+.addMinerForm .ant-upload-list-item-error,
+.addMinerForm .ant-upload-list-item,
+.addMinerForm .ant-upload-list-item-error .ant-upload-text-icon>.anticon,
+.addMinerForm .ant-upload-list-item-error .ant-upload-list-item-name {
+    color: #ffffff !important;
+}
+
+.addMinerForm .ant-upload-list-item-error .ant-upload-list-item-card-actions .anticon {
+    color: #ffffff !important;
+}
+
+.addMinerForm .anticon-delete {
+    color: #102683 !important;
+    font-size: 16px !important;
+}
+
+.addMinerForm .anticon-paper-clip {
+    color: #102683 !important;
+    font-size: 16px !important;
+}
+
+.addMinerForm .ant-menu-inline {
+    background-color: #EAECFA;
+}
+
+.addMinerForm .ant-menu-item-selected {
+    background-color: #FFFF !important;
+}
+
+.addMinerForm .ant-upload-list-item-container {
+    padding-top: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.addMinerForm .ant-menu-submenu-title {
+    background-color: #3068F6;
+}
+.addMinerForm .ant-upload-list .ant-upload-list-text{
+padding: 5px;
+}
+
+.addMinerForm .docInfo {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    width: 100%;
+    border-bottom: 1px solid rgba(4, 109, 248, 0.2);
+    padding-bottom: 7px;
+    margin-bottom: 24px;
+    color: rgba(5, 28, 125, 0.6);
+}
+
+.addMinerForm .docInfoText { 
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+
+.addMinerForm .regionsHead {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    color: rgba(5, 28, 125, 0.6);
+    margin-top: 32px;
+    margin-bottom: 24px;
+}
+
+.addMinerForm .organisationInput {
+    box-sizing: border-box;
+    position: absolute;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid rgba(191, 205, 224, 0.2);
+    box-shadow: 15px 4px 20px rgba(221, 224, 228, 0.1);
+    border-radius: 20px;
+    margin-bottom: 24px;
+    max-width: 400px;
+    width: 100%;
+}
+
+.addMinerForm .classForWidth {
+    max-width: 249px;
+    width: 100% !important;
+    border-radius: 20px;
+}
+
+
+.myBreadcrumb {
+    margin-left: 0px;
+
+}
+
+.myBreadcrumb .ant-breadcrumb {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #051C7D; 
+}
+
+.myBreadcrumb .ant-breadcrumb .ant-breadcrumb-separator {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #051C7D;  
+}
+
+.myBreadcrumb .ant-breadcrumb-link {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #051C7D;
+}
+
+.addMinerForm .forUploadIcon {
+    font-size: 14;
+    color: rgba(4, 109, 248, 0.5);
+    margin-right: 8px;
+}
+

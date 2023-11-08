@@ -1,0 +1,107 @@
+.bm-burger-button {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 80px;
+    top: 26px;
+    color: #00000080;
+  
+  }
+  .bm-burger-bars {
+    background: #373a47;
+  }
+  
+   .bm-burger-bars-hover {
+    background: #a90000;
+  }
+    .bm-cross-button {
+    height: 24px;
+    width: 24px;
+    color: rgba(191, 205, 224, 0.3);
+    right: 36px !important;
+    top: 71px !important
+  }
+  
+  .bm-cross {
+    background: #bdc3c7;
+  }
+   
+  .bm-menu-wrap {
+    position: fixed;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(4, 109, 248, 0.2);
+    width: 300px;
+  }
+  
+  .bm-menu {
+    background: #FFFFFF;
+    padding: 2.5em 1.5em 0;
+    font-size: 1.15em;
+    width: 100%;
+  
+  }
+  
+   .bm-morph-shape {
+    fill: #373a47;
+  }
+  
+  .bm-item-list {
+    color: #b8b7ad;
+    padding: 0.8em;
+    position: relative;
+    width: 100%;
+  }
+  
+  .bm-item {
+    display: flex !important;
+    align-items: center !important;
+  }
+  
+  .bm-overlay {
+    background: unset !important;
+  }
+  
+  .mainLogoStyles {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .closeOutlinedSt {
+    font-size: 24px;
+    color: rgba(191, 205, 224, 0.3);
+  }
+  
+  .burgerMenuIcons {
+    width: 32px;
+    height: 32px;
+    background-color: #046DF8;
+    border-radius: 100px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .burgerMenuTexts {
+    font-family: "BPG Mrgvlovani Caps", sans-serif;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 14px;
+  }
+  
+  .logOutWrapper {
+    position: absolute;
+    bottom: 75px;
+    margin-left: 25px;
+  
+  }
+  .burgerSubMenuTexts {
+    color: #000000A6;
+    font-size: 12px;
+  }
+  .burgerSubMenuTextsWrapper {
+    display: flex;
+    align-items: start !important;
+  }

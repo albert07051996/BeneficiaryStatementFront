@@ -1,0 +1,36 @@
+.carousel_Img {
+    height: 100vh;
+}
+
+.moh {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    max-width: 769px;
+    height: 20%;
+    max-height: 268px;
+    position: absolute;
+    top: 80%;
+    background: linear-gradient(93.53deg, rgba(5, 28, 125, 1.16) 7.77%, rgba(5, 28, 125, 0.12) 96.57%);
+    box-shadow: 0px 4px 24px -1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 1000px 0px 50px;
+}
+
+@media only screen and (max-width: 1200px) {
+    .cancel-slider {
+      width: 100%;
+    }
+  
+    .carousel-main_container {
+      display: none;
+      border-radius: 50px 0px 0px 50px;
+
+    }
+  }
+
+            .carousel-main_container {
+             
+              border-radius: 50px 0px 0px 50px;
+      
+            }

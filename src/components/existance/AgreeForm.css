@@ -1,0 +1,126 @@
+ .checkBoxText {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    color: rgba(5, 28, 125, 0.6);
+}
+ 
+ .checkBoxText {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+ .rulesTitle {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(5, 28, 125, 0.6);
+    padding-left: 70px;
+    margin-bottom: 42px;
+}
+ .rulesTitle2 {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(5, 28, 125, 0.6);
+}
+
+ .rulesBtn {
+    position: absolute;
+    width: 269px;
+    height: 48px;
+    background: linear-gradient(94.33deg, #046DF8 15.4%, rgba(4, 109, 248, 0.75) 43.6%, rgba(4, 109, 248, 0.65) 66.07%, rgba(37, 185, 249, 0.55) 98.24%);
+    box-shadow: 0px 4px 20px rgba(4, 109, 248, 0.05);
+    border-radius: 20px;
+    color: #fff;
+}
+
+ .rulesBtnBack {
+    width: 268px;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid rgba(5, 28, 125, 0.25);
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+ .rulesTextPension {
+    font-family: 'FiraGO';
+    font-style: normal;
+    background-color: #fff;
+    /* margin-left: 19px;
+    margin-right: 76px; */
+    font-size: 16px;
+    line-height: 24px;
+    padding-left: 56px;
+    padding-right: 56px;
+    border-radius: 20px;
+    padding-top: 70px;
+}
+
+ .registerBlock {
+    background-color: #FFFF;
+    padding: 50px;
+    border-radius: 8px;
+    margin-top: 30px;
+}
+
+ .textParag {
+    font-family: 'FiraGO';
+    font-style: normal;
+    margin-bottom: 20px;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: rgba(5, 28, 125, 0.6);
+}
+
+ .uploadCard {
+    /* width: 79%; */
+    border-radius: 8px;
+    justify-content: center;
+    width: 100%;
+    border-radius: 20px;
+    background-color: #f6f8fa;
+    border: none;
+}
+
+ .hiddenClass {
+    display: none;
+}
+
+.Household .colMb40 {
+    margin-bottom: 40px;
+}
+
+ .compensationFirst {
+    width: 100%;
+    max-width: 195px;
+}
+
+
+
+ .padding-div {
+    padding: 24px !important;
+}
+
+.rulesStyles {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(5, 28, 125, 0.6);
+    margin-bottom: 24px;
+}
+
+.agreeFormWrapper .ant-checkbox-wrapper+.ant-checkbox-wrapper{
+    margin-inline-start: unset !important;
+}

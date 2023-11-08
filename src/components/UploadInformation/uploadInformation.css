@@ -1,0 +1,280 @@
+.uploadInputs {
+
+    height: 48px;
+    background: #FFFFFF;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    border: 1px solid rgba(5, 28, 125, 0.3);
+}
+.uploadInputs2 {
+    width: 100%;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid rgba(191, 205, 224, 0.2);
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.spouseSelect{
+    width: 100%;
+    border-radius: 25px;
+}
+
+.textOfDoc {
+    background: rgba(4, 109, 248, 0.05);
+    width: 100%;
+    padding: 5px;
+    border-radius: 20px;
+    color: rgba(4, 109, 248, 0.7);
+}
+
+.textOfDocIcon {
+    font-size: 16px;
+    background: rgba(4, 109, 248, 0.2);
+    padding: 10px;
+    border-radius: 50%;
+    margin-right: 16px;
+}
+
+.medicalInstitution {
+    width: 100%;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid rgba(191, 205, 224, 0.2);
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.mainTop {
+    margin-bottom: 24px;
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: rgba(0, 0, 0, 0.65);
+}
+
+
+.ant-picker-suffix{
+    font-size: 20px;
+ }
+
+.anticon-calendar {   
+        font-size: 20px !important;
+}
+
+.mainTop2 {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: rgba(5, 28, 125, 0.6);
+}
+.mainTopForVeteran {
+    margin-bottom: 42px;
+    background-color: #EDF6FF;
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: rgba(0, 0, 0, 0.65);
+    margin-left: -24px;
+    margin-right: -24px;
+}
+.mainTopForRepre {
+    margin-bottom: 42px;
+    background-color: #EDF6FF;
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: rgba(0, 0, 0, 0.65);
+    margin-left: -24px;
+    margin-right: -24px !important;
+}
+
+.sseAct{
+       width: 100%;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid rgba(191, 205, 224, 0.2);
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+ .ant-select-arrow {
+    color: #046DF8 !important;
+    position: absolute;
+    padding: 20px;
+    margin-top: -24px !important;
+    font-size: 12px;
+    margin-right: -11px !important;
+    height: 48px !important;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.inspectionDate {
+    max-width: 217px;
+    width: 100%;
+}
+
+.infoSelects {
+width: 100%;
+height: 48px;
+background: #FFFFFF;
+border: 1px solid rgba(191, 205, 224, 0.2);
+box-shadow: 15px 4px 20px rgba(221, 224, 228, 0.1);
+border-radius: 20px;
+}
+
+.datepickerUpload {
+    width: 100%;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid rgba(5, 28, 125, 0.3);
+    border-radius: 20px;
+}
+
+
+
+.veteranDate {  
+    width: 100%;
+    height: 48px;
+    background: #FFFFFF;   
+    box-shadow: 15px 4px 20px rgba(221, 224, 228, 0.2) !important;
+    border-radius: 20px !important;
+    border: 1px solid rgba(5, 28, 125, 0.3) !important;
+height: 48px !important;
+}
+
+.marginClass {
+    margin-bottom: 10px; 
+    padding-top: 24px;
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: rgba(5, 28, 125, 0.6);
+}
+.globalVeteranStatusCode1{
+    max-width: 53px;
+    border: none;
+    border-radius: 20px;
+}
+.globalVeteranStatusCode2 {
+    max-width: 53px;
+    border: none;
+    border-radius: 20px;
+}
+.globalVeteranStatusCode3 {
+    max-width: 53px;
+    border: none;
+    border-radius: 20px;
+}
+.globalVeteranStatusCode3div {
+    max-width: 54px;  
+}
+
+
+.marginClass .QuestionCircleFilled{
+    padding-top: 2px;
+    margin-left: 5px;
+    color:  #046DF880;
+}
+
+@media only screen and (max-width: 1008px) {
+    .widthForTextName {
+        width: 300px;
+    }
+}
+
+@media only screen and (max-width: 1323px) {
+    .widthForTextName2 {
+        width: 300px;
+    }
+}
+
+@media only screen and (max-width: 606px) {
+    .widthForTextName2 {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 990px) {
+    .widthForTextName {
+        width: 100%;
+    }
+}
+
+
+@media only screen and (max-width: 1037px) {
+
+
+    .widthForText {
+        width: 300px;
+    }
+
+}
+@media only screen and (max-width: 1032px) {
+
+
+    .widthForTextReason {
+        width: 300px;
+    }
+
+}
+@media only screen and (max-width: 1230px) {
+
+
+    .checkDateM {
+        width: 300px;
+    }
+
+}
+@media only screen and (max-width: 991px) {
+
+
+    .checkDateM {
+        width: 100%;
+    }
+
+}
+@media only screen and (max-width: 1759px) {
+
+
+    .heightForTitle {
+        height: 60px;
+    }
+
+}
+@media only screen and (max-width: 1370px) {
+
+
+    .heightForTitle {
+        height: 85px;
+    }
+
+}
+@media only screen and (max-width: 991px) {
+
+
+    .heightForTitle {
+        height: 80px;
+    }
+
+}
+@media only screen and (max-width: 1820px) {
+
+
+    .heightForDeath {
+        height: 70px;
+    }
+
+}

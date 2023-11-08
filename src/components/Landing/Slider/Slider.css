@@ -1,0 +1,29 @@
+.Carousel_container .carousel .control-dots li {
+    width: 12px;
+    height: 12px;
+}
+.Carousel_container .carousel .control-dots {
+    display: flex;
+    align-items: center;
+    width: auto;
+    margin-right: 50px;
+}
+.Carousel_container .carousel .control-dots .selected {
+    width: 20px;
+    height: 20px;
+}
+.Carousel_container .carousel-slider{
+    border-radius: 12px;
+    display: flex;
+    justify-content: end;
+}
+.Carousel_container img{
+    border-radius: 12px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    width: 99% !important;
+}
+
+.Carousel_container {
+    background-color: #F7F8FC;
+}

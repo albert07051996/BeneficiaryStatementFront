@@ -1,0 +1,40 @@
+.calendarTitle {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+
+    justify-content: center;
+
+    color: #235D99;
+}
+
+.calendar {
+    border-radius: 8px;
+    min-width: 252px;
+}
+
+
+
+/* .ant-picker-calendar-header {
+   background-color: #FFF;
+   min-width: 252px;
+} */
+@media only screen and (max-width: 1475px) {
+    .ant-select-show-arrow {
+        margin-bottom: 20px;
+    }
+  }
+
+@media only screen and (max-width: 1200px) {
+    .calendarContainer{
+        width: 100vw !important;
+    }
+    .calendar {
+        width: 80vw !important;
+    }
+    .calendarInside{
+
+    }
+}

@@ -1,0 +1,319 @@
+/* .mari .ant-btn {
+    background-color:red;
+} */
+.Header {
+    height: 161.75px;
+    /* outline: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.H_Row {
+    /* outline: 1px solid black; */
+    width: 91.5%;
+    height: 48px;
+}
+
+.H_Row2 {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    width: 91.5%;
+    height: 48px;
+    border-radius: 30px;
+    background-color: #046DF8;
+    margin-top: 20px;
+}
+
+.dropdowns_Container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+}
+
+.H_Col1 div {
+    display: flex;
+    align-items: center;
+}
+
+.H_Col1 h1 {
+    margin-top: 10px;
+}
+
+.H_Col2 {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.H_Col3 {
+    width: 400px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.userProfileWrapper {
+    max-width: 227px;
+    width: 100%;
+    justify-content: end;
+    align-items: baseline !important;
+}
+.H_Search {
+    width: 297px;
+    height: 32px;
+    outline: 1px solid #DDE0E4 !important;
+    border-radius: 10px;
+}
+
+.H_Search input {
+    border-radius: 10px;
+    border: none !important;
+    outline: none !important;
+    height: 31.99px;
+    background-color: #ffff !important;
+}
+
+.H_Search input:focus::after {
+    box-shadow: none;
+}
+
+
+
+.H_Search button {
+    border-radius: 10px !important;
+    background-color: #ffff !important;
+    color: black !important;
+    border: none !important;
+    outline: none !important;
+}
+
+.switch-toggle {
+    width: 44px;
+    height: 24px;
+}
+
+.switch-toggle input[type="checkbox"] {
+    position: absolute;
+    opacity: 0;
+    top: 15px;
+    width: 44px;
+    height: 24px;
+    z-index: 2;
+}
+
+.switch-toggle input[type="checkbox"]+label {
+    position: relative;
+    display: inline-block;
+    width: 44px;
+    height: 24px;
+    border-radius: 20px;
+    margin: 0;
+    cursor: pointer;
+    background-color: #051C7D;
+}
+
+.switch-toggle input[type="checkbox"]+label::before {
+    position: absolute;
+    content: '';
+    font-size: 13px;
+    text-align: center;
+    line-height: 25px;
+    top: 2px;
+    left: 3px;
+    width: 20px;
+    height: 20px;
+    border-radius: 15px;
+    background-color: #ffff;
+    transition: .3s ease-in-out;
+}
+
+.switch-toggle input[type="checkbox"]:checked+label::before {
+    left: 50%;
+    content: '';
+    color: #ffff;
+    background-color: #ffff;
+}
+
+.Iuser {
+    border-radius: 100%;
+    background-color: #051C7D;
+    color: #fff !important;
+    border: 5px solid #051C7D;
+}
+
+.icon {
+    color: #000000b9;
+    cursor: pointer;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+}
+
+.icon svg {
+    width: 100%;
+    height: 100%;
+}
+
+.H-btn {
+    display: flex;
+    border: none;
+    align-items: baseline
+}
+.titleTxtHeader {
+    font-family: "BPG Mrgvlovani Caps", sans-serif;
+    font-size: 13px;
+}
+
+.H-btn:hover {
+    border: none;
+}
+
+.H-btn p {
+    color: #fff;
+}
+
+.H-btn img {
+    margin-top: 10px;
+    margin-left: 7px;
+}
+
+.H-Dropdown {
+    width: 100% !important;
+}
+.H-Dropdown .ant-btn-default {
+    background-color: unset !important;
+}
+body  .ant-dropdown-menu {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+    display: grid !important;
+    grid-template-columns: 50% 50% !important;
+    column-gap: 5px !important;
+    row-gap: 5px !important;
+    align-items: baseline;
+}
+
+body .ant-dropdown .ant-dropdown-menu .ant-dropdown-menu-item {
+    color: #051C7D;
+}
+
+body .ant-dropdown .ant-dropdown-menu .ant-dropdown-menu-item:hover {
+    background-color: #ffff !important;
+    color: #046DF8;
+}
+
+
+.Dropdown_Container {
+    position: relative;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.Dropdown_Container .ant-btn-default {
+    background-color: #046DF8 
+
+}
+.Dropdown_Container .ant-btn-default {
+    background-color: unset 
+
+}
+
+.polygon {
+    left: 35%;
+    bottom: -2px;
+    position: absolute;
+}
+.userName {
+    font-family: "BPG Mrgvlovani Caps", sans-serif;
+    font-size: 12px;
+    white-space: normal
+  }
+.ant-dropdown {
+    /* top: 145px !important; */
+    box-shadow: 10px 15px 20px -10px #046DF81A;
+}
+
+.size {
+    max-width: 120px;
+    width: 100%;
+}
+
+.size2 {
+    max-width: 220px;
+    width: 100%;
+}
+
+.headertitle {
+    margin-left: '20px';
+    font-family: 'FiraGO';
+    font-size: '21px ' !important;
+    align-self: end;
+    color:  #051C7D;
+}
+.bellsIcon {
+    width: 100px;
+    display: flex;
+    justify-content: end;
+}
+.col3WrapperUser  {
+    justify-content: end;
+}
+
+.hideLine {
+    color: white;
+    /* border-top: 1px solid rgba(4, 109, 248, 0.2); */
+    /* margin-top: 43px; */
+    /* max-width: 116px; */
+    /* width: 70px; */
+}
+.relativeHeader {
+    position: relative;
+    /* width: 100%; */
+}
+
+.headerLineAbsolute {
+    position: absolute;
+    border-top: 1px solid rgba(4, 109, 248, 0.2);
+    width: 100%;
+    top: 63%;
+    height: 0px;
+    /* height: 50px; */
+    /* background: #f7f8fc; */
+    /* z-index: -1; */
+}
+.headerWrapper {
+    background: white;
+    height: 69px;
+    margin-top: 41px
+}
+@media (max-width: 1024px) {
+    .bellsIcon {
+        width: 70px;
+        justify-content: end;
+       
+    }
+    /* .H_Col3 {
+        justify-content: end;
+    } */
+    .H_Row2 {
+        height: 24px;
+    }
+    .col3WrapperUser  {
+        justify-content: flex-start;
+    }
+    .H_Col3  {
+        display: none;
+    }
+    .H_Col2  {
+        display: none;
+    }
+    .headerLineAbsolute {
+        top: 71%;
+    }
+  }

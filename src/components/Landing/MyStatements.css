@@ -1,0 +1,285 @@
+.statementsListWrapper .ant-radio-group {
+    width: 99%;
+}
+
+.statementsListWrapper .statusBtns {
+    max-width: 288px;
+    width: 100%;
+    height: 138px;
+    box-shadow: 0px 4px 3px rgba(221, 224, 228, 0.2);
+}
+
+.statementsListWrapper .ant-radio-button-wrapper:last-child {
+    border-radius: 30px;
+    text-align: center;
+    border: 1px solid #046DF81A
+}
+
+.statementsListWrapper .ant-col {
+    text-align: center;
+}
+
+.statementsListWrapper .ant-radio-button-checked {
+    background: #F0F8FF;
+    border: 1px solid rgba(4, 109, 248, 0.1);
+    border-radius: 30px;
+
+}
+
+.statusRadioWrapper {
+    position: relative;
+}
+
+.statusIconAbsolute {
+    font-size: 24px;
+    top: -12px;
+}
+
+.statusIconWrapper {
+    width: 80px;
+    height: 80px;
+    background-color: #fff;
+    z-index: 30;
+    left: 50%;
+    top: -50%;
+    transform: translate(-50%, 50%);
+    position: absolute;
+    border-radius: 100px;
+}
+
+.statusIconBackground {
+    width: 64px;
+    height: 64px;
+    border-radius: 100px;
+
+}
+
+.ant-radio-button-wrapper:not(:first-child)::before {
+    display: none;
+}
+
+.statusIconBackgroundAll {
+    background-color: #E6F0FE;
+    border: 1px solid #046DF8
+}
+
+.statusIconBackgroundSent {
+    background-color: #EAF5FB;
+    border: 1px solid #2D9CDB
+}
+
+.statusIconAbsoluteAll {
+    color: #046DF8;
+}
+
+.statusIconAbsoluteSent {
+    color: #2D9CDB;
+
+}
+
+.statusBtns .statusText {
+    position: absolute;
+    left: 50%;
+    top: 57%;
+    transform: translate(-50%, -57%);
+    color: rgba(5, 28, 125, 0.7);
+    white-space: nowrap;
+    line-height: 1.4;
+    font-family: "BPG Mrgvlovani Caps", sans-serif;
+    font-size: 13px;
+}
+
+.statusBtns .statusTextNumb {
+    position: absolute;
+    left: 50%;
+    top: 88%;
+    transform: translate(-50%, -88%);
+    color: rgba(5, 28, 125, 0.7);
+    font-size: 14px;
+}
+
+.statusIconBackgroundStarted {
+    background-color: #FFF8FB;
+    border: 1px solid #FFA4CF
+}
+
+.statusIconAbsolutedStarted {
+    color: #FFA4CF;
+
+}
+
+.statusIconBackgroundDoneInsp {
+    background-color: #F2F5FF;
+    border: 1px solid #051C7DF2
+}
+
+.statusIconAbsoluteDoneInsp {
+    color: #051C7DF2;
+
+}
+
+.statusIconBackgroundReceived {
+    background-color: #F6FBFA;
+    border: 1px solid #89E4AF
+}
+
+.statusIconAbsoluteReceived {
+    color: #96E7B8;
+
+}
+
+.statusIconBackgroundBack {
+    background-color: #FFF9F9;
+    border: 1px solid #FFAFB4
+}
+
+.statusIconAbsoluteBack {
+    color: #FFAFB4
+}
+
+.statusIconBackgroundAccepted {
+    background-color: #F5FFFF;
+    border: 1px solid #7ECED3
+}
+
+.statusIconAbsolutedAccepted {
+    color: #7ECED3
+}
+
+.statusIconBackgroundFinished {
+    background-color: #F6FAFF;
+    border: 1px solid #448FFF
+}
+
+.statusIconAbsoluteFinished {
+    color: #448FFF
+}
+
+.tableItemWrapper {
+    max-width: 1688px;
+    width: 100%;
+    height: 138px;
+    border-radius: 30px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 3px rgba(221, 224, 228, 0.2);
+    /* filter: blur(1px); */
+}
+
+.tableCol {
+    background-color: #BFCDE014;
+}
+
+.tableItemWrapper .ant-col {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 2.5;
+    text-align: left;
+}
+
+.viewIconBig {
+    font-size: 28px;
+    color: #051C7DCC;
+}
+
+.editIconBig {
+    font-size: 24px;
+    color: #051C7DCC;
+}
+
+.tableItemWrapper .ant-row {
+    height: 100%;
+}
+
+/* .searchByNum {
+    max-width: 268px;
+    width: 100%;
+    background: #FAFBFD !important;
+    border: 1px solid rgba(4, 109, 248, 0.2) !important;
+    border-radius: 10px;
+    padding: 10px;
+    height: 48px;
+} */
+
+/* .searchByNum .ant-input  {
+    max-width: 268px;
+    width: 100%;
+    background: #FAFBFD !important;
+    border: 1px solid rgba(4, 109, 248, 0.2) !important;
+    border-radius: 10px;
+    padding: 10px;
+    height: 48px;
+}
+.searchByNum  .ant-btn , .ant-input-group-addon{
+    height: 46px;
+    border: 1px solid #FAFBFD !important;
+    background: #FAFBFD !important;
+    border-right: 1px solid rgba(4, 109, 248, 0.2) !important;
+    border-top: 1px solid rgba(4, 109, 248, 0.2) !important;
+    border-bottom: 1px solid rgba(4, 109, 248, 0.2) !important;
+
+
+} */
+
+.mari .ant-btn-primary {
+    background-color: #F0F8FF !important;
+}
+
+.mari .anticon-search {
+    color: #cdc8bf;
+
+}
+
+.mari .ant-input {
+    background-color: #FAFBFD !important;
+    border: 1px solid #046DF833;
+    font-size: 12px;
+    height: 34px;
+    color:#051C7DB2;
+    font-weight: 500;
+}
+
+.StatementsfiltersWrapper .ant-select {
+    max-width: 288px;
+    width: 100%;
+
+}
+
+.statementsListWrapper .ant-select:not(.ant-select-customize-input) .ant-select-selector {
+    background-color: #FAFBFD !important;
+    border: 1px solid rgba(4, 109, 248, 0.2);
+    border-radius: 10px;
+}
+
+.statementsListWrapper .ant-picker-range {
+    max-width: 288px;
+    width: 100%;
+    background: #FAFBFD;
+    border: 1px solid rgba(4, 109, 248, 0.2);
+    border-radius: 10px;
+}
+
+.statementsListWrapper .ant-list-pagination {
+    padding-bottom: 20px;
+    padding-right: 30px;
+
+}
+
+.statementsListWrapper .ant-select-selection-item {
+    text-align: left;
+    padding-left: 2px;
+    color:#051C7DB2;
+    font-weight: 500;
+
+}
+.statementsListWrapper .ant-picker .ant-picker-input >input {
+    color:#051C7DB2;
+    font-weight: 500;
+
+}
+
+@media (max-width: 1716px) {
+    .statusBtns .statusText {
+        white-space: pre-wrap;
+    }
+}

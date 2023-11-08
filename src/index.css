@@ -1,0 +1,127 @@
+*{
+  font-family: firaGO;
+}
+
+.smsBtn {
+  border-radius: 20px 0px 0px 20px !important;
+  background: linear-gradient(94.33deg, #046DF8 15.4%, rgba(4, 109, 248, 0.75) 43.6%, rgba(4, 109, 248, 0.65) 66.07%, rgba(37, 185, 249, 0.55) 98.24%) !important;
+  color: #FFFF;
+  padding: 5px;
+  font-size: 16px;
+  margin-left: -12px;
+  width: 135px;
+  height: 50px !important;
+}
+.smsBtnProfile {
+  border-radius: 20px 0px 0px 20px !important;
+  background-color: #046DF8 !important;
+  color: #FFFF;
+  padding: 5px;
+  font-size: 12px;
+  margin-left: -17px;
+  width: 135px;
+  height: 48px;
+}
+
+.smsBtnMobileUpdate {
+  border-radius: 20px 0px 0px 20px !important;
+  background-color: #046DF8 !important;
+  color: #FFFF;
+  padding: 5px;
+  font-size: 16px;
+  width: 135px;
+  height: 48px;
+}
+
+
+/* label {
+  font-family: 'FiraGO';
+} */
+
+
+.reg-sms-btn {
+  width: 135px;
+  height: 56px;
+  background: #046DF8;
+  box-shadow: 2px 3px 4px -1px rgba(191, 205, 224, 0.2);
+  filter: blur(0.5px);
+  border-radius: 20px 0px 0px 20px;
+}
+
+.ant-input-group-addon {
+  padding: 0;
+  background-color: #fafafa;
+  border: 0px solid #d9d9d9;
+  border-radius: 0px;
+}
+
+/* 
+body {
+  background-color: #E6EDFD;
+} */
+
+@media (max-width: 960px) {
+  .codeInput {
+    padding: 10px;
+    padding-left: 13px;
+    font-size: 11px;
+  }
+}
+
+@media (max-width: 575px) {
+  .textAlign {
+    text-align: center !important;
+  }
+
+  .smsBtn {
+    font-size: 10px;
+    padding: 5px 12px;
+  }
+
+  .paddingDiv {
+    padding: 0;
+  }
+
+  .main-login-wrapper {
+    max-width: 960px;
+  }
+
+}
+
+@media (max-width: 768px) {
+
+
+  .main-login-wrapper {
+
+    max-width: 768px;
+    padding: 165px;
+  }
+
+}
+
+@media (min-width: 1440px) {
+
+  .title {
+    font-size: 20px;
+  }
+
+  .codeInput {
+    padding: 10px;
+    padding-left: 13px;
+    font-size: 11px;
+  }
+
+}
+
+@media (max-width: 859px) {
+  .title {
+    font-size: 15px;
+  }
+}
+
+
+:where(.css-1ij74fp).ant-btn-default {
+  border-color: none !important;
+}
+
+
